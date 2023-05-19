@@ -1,6 +1,6 @@
 package main
 
-//Ricardio - OK
+/*Ricardio - OK*/
 //MORTY - OK
 
 import (
