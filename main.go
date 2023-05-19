@@ -1,7 +1,7 @@
 package main
 
-/*Ricardio - OK*/
-/*MORTY - OK*/
+//Ricardio - OK
+//MORTY - OK
 
 import (
 	"strconv"
