@@ -1,8 +1,5 @@
 package main
 
-/*Ricardio - OK*/
-//MORTY - OK - s
-
 import (
 	"strconv"
 	"fmt"
