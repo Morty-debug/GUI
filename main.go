@@ -1,5 +1,6 @@
 package main
 //ok
+//NOP
 import (
 	"strconv"
 	"fmt"
