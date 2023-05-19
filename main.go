@@ -1,6 +1,7 @@
 package main
-//ok
-//NOP
+
+//ADIOS
+
 import (
 	"strconv"
 	"fmt"
