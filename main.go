@@ -1,5 +1,7 @@
 package main
 
+//OK
+
 import (
 	"strconv"
 	"fmt"
